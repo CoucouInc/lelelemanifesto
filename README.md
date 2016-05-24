@@ -2,6 +2,7 @@
 
 slt sava?
 
-## Onche
+## Le jeu des animaux de la ferme
 
-`~o~`
+- onche: `~o~`
+- corbeau: `\>°`
