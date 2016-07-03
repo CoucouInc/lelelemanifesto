@@ -7,3 +7,9 @@ slt sava?
 
 - onche: `~o~`
 - corbeau: `\>°`
+
+## Install
+
+```bash
+echo coucou
+```
