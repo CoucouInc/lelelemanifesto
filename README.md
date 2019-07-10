@@ -2,6 +2,7 @@
 
 slt sava?
 - coucou
+- cc
 
 ## Le jeu des animaux de la ferme
 
